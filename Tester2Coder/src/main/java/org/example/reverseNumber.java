@@ -3,7 +3,7 @@ package org.example;
 public class reverseNumber {
 
     public static void main(String[] args) {
-      int result = reverse(1534236469);
+      int result = reverse(121);
         System.out.println(result);
     }
     public static int reverse(int x) {
